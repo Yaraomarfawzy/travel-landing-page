@@ -83,13 +83,13 @@
     transform: scale(1.1) !important;
   }
   .bg1{
-    background: linear-gradient(to right bottom,rgba(0,0,0,0.9),rgba(0, 0, 0, 0.1)),url(/img/carousel-1.jpg) no-repeat;
+    background: linear-gradient(to right bottom,rgba(0,0,0,0.9),rgba(0, 0, 0, 0.1)),url(img/carousel-1.jpg) no-repeat;
     height: 100vh;
     background-size: cover;
     color: white;
 }
 .bg2{
-    background: linear-gradient(to right bottom,rgba(0,0,0,0.9),rgba(0, 0, 0, 0.1)),url(/img/carousel-2.jpg) no-repeat;
+    background: linear-gradient(to right bottom,rgba(0,0,0,0.9),rgba(0, 0, 0, 0.1)),url(img/carousel-2.jpg) no-repeat;
     height: 100vh;
     background-size: cover;
     color: white;
